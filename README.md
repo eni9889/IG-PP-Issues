@@ -1,5 +1,7 @@
 # IG-PP-Issues
 
+***Before posting make sure you are on the latest version of IG++ on https://beta.unlimapps.com***
+
 Please use the issues portion of this repo to report any issues you find or for feature requests.
 
 Bugs/Crashes should Include the following and be titled as so and also labled as a bug:
