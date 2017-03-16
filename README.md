@@ -1,4 +1,4 @@
-# IG-PP-Issues
+# IG ++ Issues
 
 ***Before posting make sure you are on the latest version of IG++ on https://beta.unlimapps.com***
 
